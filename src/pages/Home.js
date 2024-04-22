@@ -14,11 +14,11 @@ const Home = () => {
       <h2 className="text-2xl font-bold mb-4"> Toppers of our school</h2>
       <marquee bgcolor="#ccc" loop="-1" scrollamout="5" width="100%">
         <span className=" font-semibold">
-          Student of the year of our shool is-
+          Student of the year of our school is-
         </span>
         <sup className="text-red-500 font-bold text-lg"> * Rupam Patel * </sup>
         <span className=" font-semibold">
-          topper in compurt Science department with agrigiate of 99%
+          topper in computer Science Department with aggregate:99%
         </span>
       </marquee>
       <img
@@ -26,7 +26,7 @@ const Home = () => {
         src=" https://i1.rgstatic.net/ii/profile.image/933947840163840-1599681925857_Q512/Aleksandra-Tyc.jpg"
         alt="topper"
       />
-      <span>(Student of the year)</span>
+      <span>School Topper</span>
       {/* <Testimonial/> */}
     </div>
 
